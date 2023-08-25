@@ -4,6 +4,9 @@
     --botao-azu: #167BF7;
     --cor-de-fundo: #00030C;
     }
+    .container {
+        height: 100vh;
+        }
     .container_botao {
         background-color: var(--botao-azul);
     }
