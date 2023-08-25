@@ -4,9 +4,11 @@
     --botao-azu: #167BF7;
     --cor-de-fundo: #00030C;
     }
-.container_botao {
-        background-color: var(--botao-azul);
-        }
+    .container_botao {
+        background-color: var(--botao-azu);
+    }
+
+    
 body {
         background-color: var(--cor-de-fundo);
         color: var(--branco-principal);
